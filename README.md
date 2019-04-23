@@ -1,7 +1,7 @@
-# R-Analysis-of-the-characteristics-and-prognosis-of-the-patients-undergoing-PCI
-# Load your file (as updated_data.csv ) 
-# Variables Age	Sex	DM	Hypertension	Dyslipidemia	Smoking	CAD	CRF	BMI	PreEF	Vessles	PostEF
-# Run jupyter notebook
+# R Analysis of the characteristics and prognosis of the patients undergoing PCI
+#Load your file (updated_data.csv ) 
+#Variables Age	Sex	DM	Hypertension	Dyslipidemia	Smoking	CAD	CRF	BMI	PreEF	Vessles	PostEF
+#Run jupyter notebook
 
 #Exploratory data analysis (EDA) the very first step in a data project. 
 #We will create a code-template to achieve this with one function.
