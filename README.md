@@ -30,11 +30,11 @@
 #Distributions (numerically and graphically) for both, numerical and categorical variables.
 
 
-# Linear Discriminant Analysis (LDA)
-# Classification and Regression Trees (CART).
-# k-Nearest Neighbors (kNN).
-# Support Vector Machines (SVM) with a linear kernel.
-# Random Forest (RF)
+#Linear Discriminant Analysis (LDA)
+#Classification and Regression Trees (CART).
+#k-Nearest Neighbors (kNN).
+#Support Vector Machines (SVM) with a linear kernel.
+#Random Forest (RF)
 
 
 
