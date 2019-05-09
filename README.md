@@ -31,9 +31,13 @@
 
 
 #Linear Discriminant Analysis (LDA)
+
 #Classification and Regression Trees (CART).
+
 #k-Nearest Neighbors (kNN).
+
 #Support Vector Machines (SVM) with a linear kernel.
+
 #Random Forest (RF)
 
 
