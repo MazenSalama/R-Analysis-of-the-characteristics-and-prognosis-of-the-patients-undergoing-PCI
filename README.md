@@ -26,6 +26,3 @@
 
 
 
-#Thank you
-
-#https://mazenz.com
